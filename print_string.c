@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * print_string - Function that prints all characters in the stack

@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * swap - Function that has the top two elements trade places

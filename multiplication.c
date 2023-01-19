@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * multiplication - Function that finds the product of the two top stacks,

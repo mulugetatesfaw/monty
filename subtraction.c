@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * subtraction - Function that finds the difference of the top two stacks,

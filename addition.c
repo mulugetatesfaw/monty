@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * addition - Function that finds the sum of the two top stacks, stores

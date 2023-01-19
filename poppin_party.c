@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * Poppin_Party - Function that pops a stack. That is, removes

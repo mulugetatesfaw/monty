@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * division - Function that finds the quotient of the top two stacks,

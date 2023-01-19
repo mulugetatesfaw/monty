@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * print_stack - Exactly what it looks like. Prints the entire

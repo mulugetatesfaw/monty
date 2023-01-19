@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * nope - Nope. This program will do absolutely nothing for you.

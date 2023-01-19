@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * free_them_all - Liberates the system of all memory-occupying rebels

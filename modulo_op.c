@@ -1,4 +1,5 @@
 #include "monty.h"
+#include "lists.h"
 
 /**
  * modulo_op - Function that finds the remainder of the top two stacks,
